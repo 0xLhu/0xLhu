@@ -15,9 +15,9 @@
 ## 👤 About Me
 
 ```yaml
-name       : 0xLhu | Shy | ??
+name       : .\/.
 role       : SOC Analyst | CTI Analyst | Forensic | OSINT
-location   : France 🇫🇷
+location   : Kernel Land
 status     : Hunting threats 24/7
 sleep      : Optional  # strongly not recommended tho
 coffee     : Mandatory ☕
