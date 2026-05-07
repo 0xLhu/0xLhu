@@ -2,7 +2,7 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0,0d1117,00ff41&height=200&section=header&text=Lhu|Shy&fontSize=80&fontColor=00ff41&animation=fadeIn&fontAlignY=38&desc=SOC%20%7C%20CTI%20%7C%20Blue%20Team%20%7C%20OSINT&descAlignY=60&descSize=18&descColor=c9d1d9)
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1500&color=00FF41&center=true&vCenter=true&width=800&lines=the+less+you+sleep%2C+the+more+you+see.;hunting+threats+so+you+don't+have+to.;yes%2C+i+read+logs+for+fun.;no%2C+i+don't+need+sleep.+why+do+you+ask%3F" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1500&color=00FF41&center=true&vCenter=true&width=800&lines=hunting+threats+so+you+don't+have+to.;yes%2C+i+read+logs+for+fun.;no%2C+i+don't+need+sleep.+why+do+you+ask%3F" alt="Typing SVG" />
 
 <br/>
 
